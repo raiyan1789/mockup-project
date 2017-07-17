@@ -1,0 +1,11 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+
+
+I have learned about referencing a tags to link images, so far everything has been easy. Nothing difficult yet, I used the help of stack over flow and google to find the tags that I needed for this project. The first project taught me how to research and google like a pro. That is why this project has been fairly easy.
